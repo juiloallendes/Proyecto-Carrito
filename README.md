@@ -1,1 +1,1 @@
-# Proyecto-Carrito
+Projecto del Curso de JS Moderno 
